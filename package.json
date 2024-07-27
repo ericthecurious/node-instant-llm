@@ -1,5 +1,5 @@
 {
-  "name": "node-instant-llm",
+  "name": "@neurodevs/node-instant-llm",
   "version": "0.0.1",
   "repository": "https://github.com/neurodevs/node-instant-llm.git",
   "scripts": {
