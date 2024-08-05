@@ -1,2 +1,2 @@
-# node-instant-llm
-Spinup LLMs on-demand in cloud compute instances
+# node-instant-llm ⚡
+Spinup large language models (LLMs) on-demand in cloud compute instances
